@@ -4,7 +4,8 @@
 
 ***
 
-This tool change the format of special format files in a special path
+This tool change the format of special format files in a special path 
+
 format changed files will be stored in `Its Index/mpifc_result`
 
 ***
