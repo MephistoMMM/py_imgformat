@@ -1,6 +1,6 @@
 ###Files format changer
 
-![2](./2.jpg)
+![2](./3.png)
 
 ***
 
